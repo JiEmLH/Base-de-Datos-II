@@ -123,4 +123,3 @@ ALTER TABLE clientes_correos
     ADD CONSTRAINT tipos_correos_fk FOREIGN KEY ( id_correo )
         REFERENCES tipos_correos ( cod_correo );
 
-© 2021 GitHub, I
